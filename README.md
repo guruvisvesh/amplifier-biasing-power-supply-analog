@@ -72,9 +72,9 @@ The amplifier must operate at:
 ---
 
 ## 📷 Output
-(Add circuit and waveform images)
+(All circuit and waveform images attached)
 
 ---
 
 ## 👨‍💻 Author
-Gurunikesh S
+Guruvisvesh S A
